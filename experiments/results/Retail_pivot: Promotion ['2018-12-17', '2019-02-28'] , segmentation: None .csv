@@ -1,0 +1,2 @@
+,e,e_µ,e_std,e_size,h,h_µ,h_std,h_size,t-value,p-value,e_normal,h_normal,chi-squared test,Dh_size,De_size,#h,#e,segmentation,pivot,test
+0,2019-02-28 00:00:00-2019-12-30 00:00:00,232.25,113.27,71070,2017-02-28 00:00:00-2018-12-17 00:00:00,243.37,113.36,160139,0.18414185779767483,0.8539409778746996,False,False,4.0789524746503605e-101,160139,71070,1,1,,Promotion,mean

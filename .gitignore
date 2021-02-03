@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+
+data/transactions2.csv
+
+documentation/
+
+experiments/results/Amazon_pivot: Promotion \['2016-11-20', '2017-01-01'\] , segmentation: Window 500.csv
+
+experiments/results/Amazon_ztest_pivot: Promotion \['2016-11-20', '2017-01-01'\] , segmentation: Window 500.csv
+
+experiments/results/Amazon__pivot: Promotion \['2016-11-20', '2017-01-01'\] , segmentation: Trend \['Up', 'Down'\].csv
