@@ -1,2 +1,0 @@
-,e,e_µ,e_std,e_size,h,h_µ,h_std,h_size,t-value,p-value,e_normal,h_normal,chi-squared test,Dh_size,De_size,#h,#e,segmentation,pivot,test,p-value (FDR)
-0,2017-02-28 00:00:00-2019-12-30 00:00:00,212.88,100.33,220545,2017-03-04 00:00:00-2019-12-30 00:00:00,28.74,16.71,29663,15.570961756925746,1.0135406907867289e-51,False,False,0.7331384807512393,29663,220545,1,1,Demographics,Demographics,mean,1.0135406907867289e-51
