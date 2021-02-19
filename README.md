@@ -1,4 +1,4 @@
-#S4
+# S4
 S4 is a Framework for Statistically-Sound Customer Segment Search,
 that combines principled data partitioning and statistical testing to verify common hypotheses in retail data and return interpretable customer data segments.
 
