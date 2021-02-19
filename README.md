@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Using S4
 
-- To use S4, go to ```source_code/notebook``` and run jupyter notebook 
+- To use S4, go to ```source_code/notebooks``` and run jupyter notebook 
 - Use ```Run Experiments``` to run experiments with the predefined or custom parameters (dataset, alpha, next-candidate approach, segmentation, pivot )
 - Use ```Results stats``` to explore the results of the experiments
  
