@@ -3,7 +3,7 @@ import glob
 import pandas as pd
 
 from source_code.utils.tools import extract_experiment_name, find_query_name
-from utils.results import iterate_in_results
+from source_code.utils.results import iterate_in_results
 
 error_arg = "fdr_by"
 corrected_err_column = f"p-value {error_arg}"
